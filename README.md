@@ -37,11 +37,11 @@ We are hiring across multiple engineering domains. If you have deep technical fu
 如果你技术基础扎实、热爱挑战复杂技术问题、做事认真主动、对高性能区块链基础设施充满热情，我们诚邀你加入。
 
 ### 🛠️ Domains / 岗位方向
-* **Backend** (后端开发)
+* **Backend** (后端开发： 多网络 RPC Aggregation, 分布式系统 & 性能工程, 交易模拟 & 执行前检查, 账号体系等各个方向)
 * **Smart Contract** (智能合约)
-* **Testing / QA** (测试/质量保证)
+* **Testing** (测试： 关键组件与链上执行逻辑测试等)
 * **Infra** (基础设施)
-* **DevOps** (运维开发)
+* **DevOps** (区块链运维)
 * **More...**
 
 ---
